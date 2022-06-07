@@ -6,6 +6,8 @@ const { Menu } = require('electron');
 const osIntegration = require('../base/os-integration');
 
 /**
+ * 
+ * 
  * Template buffer
  * @type {Array<Object>}
  */

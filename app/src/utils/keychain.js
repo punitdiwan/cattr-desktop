@@ -1,4 +1,4 @@
-const keytar = require('keytar');
+// const keytar = require('keytar');
 const Log = require('./log');
 const config = require('../base/config');
 
